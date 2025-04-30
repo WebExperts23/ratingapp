@@ -3,7 +3,7 @@
 client_id = "6b06d5b5b95afc008e97c33e8cd5c67c"
 name = "ratingapp"
 handle = "ratingapp-1"
-application_url = "https://applicable-tulsa-ja-stewart.trycloudflare.com"
+application_url = "https://fewer-screensaver-sheets-demonstrate.trycloudflare.com"
 embedded = true
 
 [build]
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://applicable-tulsa-ja-stewart.trycloudflare.com/auth/callback",
-  "https://applicable-tulsa-ja-stewart.trycloudflare.com/auth/shopify/callback",
-  "https://applicable-tulsa-ja-stewart.trycloudflare.com/api/auth/callback"
+  "https://fewer-screensaver-sheets-demonstrate.trycloudflare.com/auth/callback",
+  "https://fewer-screensaver-sheets-demonstrate.trycloudflare.com/auth/shopify/callback",
+  "https://fewer-screensaver-sheets-demonstrate.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
